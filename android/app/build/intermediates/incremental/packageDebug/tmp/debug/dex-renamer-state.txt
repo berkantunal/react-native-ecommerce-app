@@ -1,0 +1,4 @@
+#Tue Nov 20 12:38:49 EET 2018
+base.0=/Users/user/Desktop/works/apps/ecommerce/ecommerceApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

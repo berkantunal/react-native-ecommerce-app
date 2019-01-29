@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>5C47FE8E-F54B-41F7-B8C9-07941BBB2EB1</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C47FE8E-F54B-41F7-B8C9-07941BBB2EB1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ecommerceApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ecommerceApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ecommerceApp with scheme ecommerceApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564670414.28012204</real>
+			<key>timeStoppedRecording</key>
+			<real>564670416.90932</real>
+			<key>title</key>
+			<string>Building project ecommerceApp with scheme ecommerceApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>5C47FE8E-F54B-41F7-B8C9-07941BBB2EB1</string>
+		</dict>
+		<key>D5C32B96-8426-43AB-AE8F-74F35B5ADAD0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5C32B96-8426-43AB-AE8F-74F35B5ADAD0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ecommerceApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ecommerceApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ecommerceApp with scheme ecommerceApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564669250.85917699</real>
+			<key>timeStoppedRecording</key>
+			<real>564669258.62356806</real>
+			<key>title</key>
+			<string>Building project ecommerceApp with scheme ecommerceApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D5C32B96-8426-43AB-AE8F-74F35B5ADAD0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/user/Desktop/works/apps/ecommerce/ecommerceApp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/919e4c66848ac65d88c206c561257849/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/works/apps/ecommerce/ecommerceApp/android/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b1005a9493478f515594be43a059b160/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/works/apps/ecommerce/ecommerceApp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/919e4c66848ac65d88c206c561257849/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/works/apps/ecommerce/ecommerceApp/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/919e4c66848ac65d88c206c561257849/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
